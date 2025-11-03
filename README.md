@@ -1,6 +1,6 @@
 # IA para el análisis y reversing de malware
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `IA para el análisis y reversing de malware`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
